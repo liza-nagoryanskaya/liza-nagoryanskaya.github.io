@@ -7,3 +7,6 @@
 
 
 [![Alt text for your video](https://i.ytimg.com/vi/-gfV1keoArU/1.jpg?time=1541612075943)](https://youtu.be/-gfV1keoArU)
+
+# Опорный конспект по теме: Технологии проведения вебинаров
+https://docs.google.com/presentation/d/1VxjpAAbbeMsSKrXHOWvBm-cRzj5X4JE-anHxf4B7wVQ/edit?usp=sharing
